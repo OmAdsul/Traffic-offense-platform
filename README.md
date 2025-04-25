@@ -31,7 +31,7 @@ A complete web-based platform that empowers citizens to report traffic violation
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/home.png)
+![Homepage](https://github.com/OmAdsul/Traffic-offense-platform/blob/05b14afe7cf92ee3641aa6045581bd1d2959dc04/homepage.png)
 
 ### 📋 Report Form
 ![Report Form](screenshots/report-form.png)
