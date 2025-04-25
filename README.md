@@ -28,5 +28,17 @@ A complete web-based platform that empowers citizens to report traffic violation
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/home.png)
+
+### 📋 Report Form
+![Report Form](screenshots/report-form.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+
 
 
